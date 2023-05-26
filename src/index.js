@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import questions from './questions.json' 
+import questions from './dummyquestions.json' 
 import cardBackMusic from './Jeopardy.mp3';
 
 console.log(questions)
