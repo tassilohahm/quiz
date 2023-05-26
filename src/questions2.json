@@ -1,0 +1,45 @@
+{
+    "categories":["Feuchte Kehlen","Nicht Covid","Sport und Spiel","Deutschland kulinarisch","Bild und Ton","Schnell Schnell"],
+    "Feuchte Kehlen":{
+        "200":"Wird die schottische Variante des Getraenks Whisky oder Whiskey geschrieben?",
+        "400":"Was sind laut Reinheitsgebot die einzig vier zulaessigen Zutaten in Bier?",
+        "600":"Brennspiritus ist >94%iger Ethanol. Warum kann man ihn, im Gegensatz zu Trinkalkohol derselben Stärke, nicht trinken?",
+        "800":"Wie hoch ist die maximale Konzentration von Ethanol, die durch Destillation erreicht werden kann?",
+        "1000":"Aus welchem Land kommt die Rebsorte \"Primitivo\" urspruenglich?"
+    },
+    "Nicht Covid":{
+        "200":"In welchem Jahrzehnt war der letzte dokumentierte Pockenfall: 70er oder 80er?",
+        "400":"Wie hoch ist die Wahrscheinlichkeit an einer unbehandelten Tollwuterkrankung zu sterben, sobald die ersten Symptome eingesetzt haben?",
+        "600":"Die Pest wuetete 1346-1356 in Europa. Wie viele Menschen starben anteilig an der Gesamtbevoelkerung: 1%, 10% oder 25%?",
+        "800":"Wie heißt der Entdecker des Penicillin?",
+        "1000":"Was ist, gemessen an Todesfaellen pro Jahr, die toedlichste Infektionskrankheit der Gegenwart?"
+    },
+    "Sport und Spiel":{
+        "200":"Wie heißt der aktuelle Schachweltmeister?",
+        "400":"Wie nennt man es, wenn man beim Golf einen Schlag unter Par bleibt?",
+        "600":"Bonusrunde: Schachraetsel",
+        "800":"Wie viele Punkte bringt ein sogenanntes \"Safety\" im American Football?",
+        "1000":"Aktuell spielen 12 Vereine in der Frauenbundesliga. Wie viele davon haben ein Pendent in der Maennerbundesliga?"
+    },
+    "Deutschland kulinarisch":{
+        "200":"Der Saenger Fritz besang Kloeße aus welchem Bundesland?",
+        "400":"Wie heißt ein norddeutsches Gericht aus Rindfleisch, Rote Beete, Gewuerzgurken und Kartoffeln?",
+        "600":"Fuer das Hessische Gericht \"Handkaes mit Musigg\" wird Handkaese mit was gereicht?",
+        "800":"Welcher deutsche Automobilhersteller liefert als offiziell deklarierte Originalteile auch Lebensmittel aus?",
+        "1000":"Das beliebteste Gemuese in Deutschland sind Kartoffeln. Welches ist das zweitbeliebteste?"
+    },
+    "Bild und Ton":{
+        "200":"Wo befindet sich der Hauptsitz der Bildzeitung?",
+        "400":"Was ist die in der Regel hoechste Datenrate die mp3 liefern kann?",
+        "600":"Was ist die, im besten Fall, hoechste fuer Menschen hoerbare Frequenz?",
+        "800":"Wann war die Einfuehrung des Farbfernsehens in der BRD: 1958, 1962, 1967 oder 1971?",
+        "1000":"Bonusrunde: Bilder beruehmter Personen"
+    },
+    "Schnell Schnell":{
+        "200":"Wie schnell darf man auf einer Kraftfahrtstraße mit baulicher Trennung fahren?",
+        "400":"Der Geschwindigkeitsrekord an Land wurde 1997 durch das ThrustSSC aufgestellt. Wie hoch liegt er ca.: 1000, 1200 oder 1400km/h?",
+        "600":"Wie groß ist die Schallgeschwindigkeit in trockener Luft bei 20 Grad?",
+        "800":"Die Concorde war das schnellste Passierflugzeug im Liniendienst. Wie lange dauerte die Strecke London-New York ca?",
+        "1000":"In der Physik ist die Ableitung des Weges die Geschwindigkeit. Die Ableitung der Geschwindigkeit wiederum ist die Beschleunigung. Wie nennt man die Ableitung der Beschleunigung?"
+    }
+}

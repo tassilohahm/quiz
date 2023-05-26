@@ -1,0 +1,45 @@
+{
+    "categories":["I like Nuts","Innuendo","Can I?","The whole thing?","Wow that's","Yes=Yes"],
+    "I like Nuts":{
+        "200":"And I cannot lie",
+        "400":"The other brothers can't deny",
+        "600":"That when a boi walks in",
+        "800":"with handful of macadamia",
+        "1000":"I'm hungry"
+    },
+    "Innuendo":{
+        "200":"We need to go deeper",
+        "400":"Many a small thing has been made large by the right kind of advertising.",
+        "600":"That's what she said",
+        "800":"Fighting cocks is an immoral way to make money.",
+        "1000":"That is one hairy Kitty"
+    },
+    "Can I?":{
+        "200":"go to the park",
+        "400":"actually swim",
+        "600":"ride a bike",
+        "800":"drive you home",
+        "1000":"sit on your face"
+    },
+    "The whole thing?":{
+        "200":"yeah of course",
+        "400":"the whole thing",
+        "600":"stop complaining",
+        "800":"you asked for a foot long",
+        "1000":"subway sandwich"
+    },
+    "Wow that's":{
+        "200":"big",
+        "400":"small",
+        "600":"interesting",
+        "800":"hairy",
+        "1000":"smooth"
+    },
+    "Yes=Yes":{
+        "200":"Cats are a wonderful lesson in consent",
+        "400":"You can touch them",
+        "600":"but they will clearly communicate when and where they don't want to be touched",
+        "800":"and showing you their belly is a sign of trust, not an invitation",
+        "1000":"for most cats at least. some do like their bellies touched. but you gotta know a cat pretty well and ask nicely beforehand."
+    }
+}

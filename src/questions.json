@@ -1,0 +1,45 @@
+{
+    "categories":["Irgendwas mit Karten","Natur- wissenschaft","F·R·I·E·N·D·S","Rund und Eckig","Zeit","La musique"],
+    "Irgendwas mit Karten":{
+        "200":"Wie viele Nachbarlaender hat Deutschland?",
+        "400":"Was ist groeßer: Groenland oder Australien?",
+        "600":"Der Gangkhar Puensum ist mit 7570m der hoechste unbestiegene Berg. Warum?",
+        "800":"Welches europaeische Land hat seine hoechste Erhebung NICHT auf dem europaeischen Kontinent?",
+        "1000":"Wie heißt die Hauptstadt der Schweiz?"
+    },
+    "Natur- wissenschaft":{
+        "200":"Welche Ordnungszahl hat Kohlenstoff im Periodensystem?",
+        "400":"Was ist das (fuer Menschen zahlenmaeßig) toedlichste Tier?",
+        "600":"2013 wurde am Large Hadron Collider in Genf das letzte noch ausstehende Teilchen des Standardmodells der Teilchenphysik nachgewiesen. Wie heißt es?",
+        "800":"Was beschreibt der sogenannte Tripelpunkt?",
+        "1000":"DNA besteht, neben einem Phosphatrest und Desoxyribose, aus den Basen Adenin, Thymin, Guanin und Cytosin. RNA dagegen enthaelt statt Thymin welche Base?"
+    },
+    "F·R·I·E·N·D·S":{
+        "200":"Wo haben sich Chandler und Ross kennengelernt?",
+        "400":"Wer hat vor Ross in dem Apartment gewohnt, in dem er ab der fuenften bis zur letzten Staffeln wohnt?",
+        "600":"Wie heißt Ross' Affe?",
+        "800":"Welcher (derzeitige) Millardaer hat eine Cameo in der Serie?",
+        "1000":"Joey springt waehrend eines Polizei ride alongs mit Phoebes neuem Freund, vorgeblich, in den Weg einer Kugel. Warum?"
+    },
+    "Rund und Eckig":{
+        "200":"Wann gewann der HSV seinen letzten Meistertitel: 1983 oder 1993?",
+        "400":"Laut offiziellen Fifa Regeln darf ein Fußballfeld quadratisch sein: wahr oder falsch?",
+        "600":"Bei der WM 1982 ereignete sich ein Spiel, das als \"Schande von Gijon\" beruehmt wurde. Zwischen welchen beiden Nationen wurde es ausgetragen?",
+        "800":"Wie hieß Deutschlands erster Schwarze Nationalspieler?",
+        "1000":"Special Runde: Cumming or Drumming!"
+    },
+    "Zeit":{
+        "200":"Wie viele Sekunden haben zwei Stunden?",
+        "400":"Wie viele Stunden Zeitverschiebung sind, von Sommer/Winterzeit- ueberschneidungen abgesehen, zwischen Berlin und Los Ageles?",
+        "600":"Wie lange verliert man maximal als deutscher Staatsbuerger sein Wahlrecht bei Vorbereitung eines Angriffskrieges gegen die BRD?",
+        "800":"Die Definition einer Sekunde basiert auf der Periode eines Phasenuebergangs eines Atoms welchen Elements?",
+        "1000":"Was geschah zwischen dem 5. und dem 14. Oktober 1582?"
+    },
+    "La musique":{
+        "200":"Charlie Watts, kuerzlich verstorbenes Mitglied der Rolling Stones, spielte welches Instrument?",
+        "400":"Sido und B-Tight unterschrieben 2001 bei welchem Berliner Label?",
+        "600":"Wie heißt der Komponist des Balletts \"Schwanensee\"?",
+        "800":"Welcher Song ist das zweitmeistgesehene Youtube Video aller Zeiten?",
+        "1000":"Special Runde: Cover oder Original?"
+    }
+}
